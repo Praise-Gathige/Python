@@ -1,0 +1,5 @@
+Goblin King, 150, The Dark Woods
+Cave Troll, 800, Mount Doom
+Slime, 15, Village Sewers
+Ancient Dragon, 5000, The Ashen Peaks
+Bandit Leader, 300, The King's Road

@@ -1,0 +1,6 @@
+Blaster, 450.0
+Medkit, 75.5
+Thermal Detonator, 1200.0
+Corrupted_Data_Line
+Spice, ERROR_PRICE
+Hyperdrive Parts, 5000.0
