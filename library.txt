@@ -1,0 +1,6 @@
+The Great Gabsy, 15.00, Classic
+1984, 12.50, Sci-Fi 
+Foundation, ERROR, Sci-Fi 
+The Hobbit, 20.00, Fantasy 
+Dune, 18.00, Sci-Fi 
+Blanket Book, Sci-Fi 
