@@ -1,0 +1,3 @@
+APPROVED: X-101 from Mars - Viability: 99.2% (Tox: 4.5) - [PRIME]
+APPROVED: X-107 from Mars - Viability: 88.4% (Tox: 1.2) - [STANDARD]
+APPROVED: X-105 from Kepler-186f - Viability: 76.5% (Tox: 2.1) - [STANDARD]

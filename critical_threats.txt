@@ -1,0 +1,3 @@
+ALERT: Agent X-99 spotted in London. Threat: 8, Signal: 95.2%
+ALERT: Agent Z-01 spotted in Tokyo. Threat: 10, Signal: 88.9%
+ALERT: Agent Q-88 spotted in London. Threat: 9, Signal: 62.0%

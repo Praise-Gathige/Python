@@ -1,0 +1,6 @@
+X-99, London, 8, 95.2
+A-42, Berlin, 3, 44.1
+Z-01, Tokyo, 10, 88.9
+V-11, Paris, 7, 99.5
+Q-88, London, 9, 62.0
+M-05, Rome, 2, 12.4

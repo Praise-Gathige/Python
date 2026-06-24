@@ -1,0 +1,13 @@
+Department: Engineering
+  Alice: $1,800.00
+  Fiona: $3,300.00
+Total Department Cost: $5100.00
+------------------------------
+Department: Sales
+  Bob: $1,211.25
+Total Department Cost: $1211.25
+------------------------------
+Department: Marketing
+  Diana: $1,140.00
+Total Department Cost: $1140.00
+------------------------------

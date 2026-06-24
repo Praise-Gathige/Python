@@ -1,0 +1,7 @@
+Alice, Engineering, 45.00, 40
+Bob, Sales, 25.50, 45
+Charlie, Engineering, 50.00, SICK_LEAVE
+Diana, Marketing, 30.00, 38
+Evan, Sales, ERROR, 40
+Fiona, Engineering, 60.00, 50
+George, Marketing, 28.00, 

@@ -1,0 +1,7 @@
+X-101, Mars, 4.5, 99.2
+X-102, Venus, ERROR, 12.1
+X-103, Europa, 9.8, 85.0
+X-104, Titan 
+X-105, Kepler-186f, 2.1, 76.5
+X-106, Proxima-b, CORRUPT, CORRUPT
+X-107, Mars, 1.2, 88.4
