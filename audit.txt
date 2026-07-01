@@ -1,0 +1,2 @@
+ACTION LOGGED: Executed the extract_data protocol
+ACTION LOGGED: Executed the find_critical_nodes protocol

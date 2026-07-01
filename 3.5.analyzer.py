@@ -16,7 +16,6 @@ with open(filename, 'r') as file:
                 signal_strength = float(parts[3].strip())
 
                 log_tuple = (agent_id, city, threat_level, signal_strength)
-                
                 logs.append(log_tuple)
 
             except TypeError:
@@ -25,16 +24,21 @@ with open(filename, 'r') as file:
 
 
 # Phase 3: The Lambda Filters
-
+# Filter for Threat Level >= 8
 high_threats = list(filter(lambda x: x[2] >= 8, logs))
 
+# Sort by Signal Strength in Descending Order
 sorted_threats = sorted(high_threats, key= lambda x: x[3], reverse= True)
 
+# Boss Level Challenge: The Data Masker
+# Replace Agent_ID with "CLASSIFIED"
+
+masked_data = list(map(lambda x: ("CLASSIFIED", x[1], x[2], x[3]), high_threats))
 
 # Phase 4: Writing the Secure Report
 
 with open('critical_threats.txt', 'w') as file:
-    for agent_id, city, threat_level, signal_strength in sorted_threats:
+    for agent_id, city, threat_level, signal_strength in masked_data:
         report = f"ALERT: Agent {agent_id} spotted in {city}. Threat: {threat_level}, Signal: {signal_strength}%\n"
         file.write(report)
 

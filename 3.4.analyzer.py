@@ -35,10 +35,8 @@ try:
     # Attach "PRIME" if Viability >= 90, otherwise "STANDARD"
     final_samples = list(
         map(
-            lambda row: row + ("PRIME",)
-            if row[3] >= 90
-            else row + ("STANDARD",),
-            sorted_samples
+            lambda row: row + ("PRIME",) if row[3] >= 90
+            else row + ("STANDARD",), sorted_samples
             ))
     
 

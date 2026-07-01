@@ -1,0 +1,7 @@
+# Phase 1: The Raw Network Data ('network_logs.txt')
+
+Node_01, 15.2
+Node_02, 205.8
+Node_03, 8.4
+Node_04, 550.1
+Node_05, 12.0

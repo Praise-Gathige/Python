@@ -1,0 +1,6 @@
+DEV_101, Kitchen, 1200, 5, Active
+DEV_102, Bedroom, 150, 8, Active
+DEV_103, LivingRoom, FAULT, 12, Active
+DEV_104, Garage, 3500, 2, Standby
+DEV_105, Kitchen, 800, ERROR, Standby
+DEV_106, Attic, 45, 24, Dormant
