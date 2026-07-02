@@ -57,7 +57,7 @@ def run_terminal():
 
     while True:
         
-        name = input("Enter citizen's name (or type 'DONE' to exit): ")
+        name = input("Enter citizen's name (or type 'DONE' to exit): ").title()
         if name.upper() == "DONE":
             break
         try:
