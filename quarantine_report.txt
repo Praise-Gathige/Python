@@ -1,0 +1,4 @@
+--- AEGIS FINANCIAL: DAILY RISK REPORT ---
+Account ACC-104 has 1 flagged transactions. 
+Account ACC-881 has 1 flagged transactions. 
+Account ACC-333 has 1 flagged transactions. 

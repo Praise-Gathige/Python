@@ -1,0 +1,8 @@
+192.168.1.10, LOGIN, /api/auth, 200
+10.0.0.45, LOGIN, /api/auth, 401
+10.0.0.45, LOGIN, /api/auth, 401
+CORRUPTED_PACKET_LOSS_ERROR
+192.168.1.50, ACCESS, /admin/config, 403
+172.16.0.8, GET, /index.html, NaN
+10.0.0.45, LOGIN, /api/auth, 401
+192.168.1.99, DELETE, /database, 403

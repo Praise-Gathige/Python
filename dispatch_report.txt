@@ -1,0 +1,4 @@
+--- METRO HEALTH: WARD DISPATCH REPORT ---
+ER requires attention for 1 critical patients.
+ONCOLOGY requires attention for 1 critical patients.
+MATERNITY requires attention for 1 critical patients.

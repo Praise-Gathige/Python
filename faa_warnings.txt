@@ -1,0 +1,3 @@
+--- NATA AUDIT: AIRLINE SAFETY VIOLATIONS ---
+WARNING: AeroCorp recorded 2 severe airspace violations.
+WARNING: Oceanic recorded 1 severe airspace violations.
