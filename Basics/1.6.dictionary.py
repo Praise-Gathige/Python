@@ -16,3 +16,13 @@ b = Profile.popitem()
 print(Profile)
 print(a)
 print(b)
+
+# Creating dictionaries from lists
+keys = ['Navin', 'Kiran', 'Harsh']
+values = ['Python', 'Java', 'JS']
+
+data = dict(zip(keys, values))
+print(data)
+
+data['Monika'] = 'C++'
+print(data['Monika'])
